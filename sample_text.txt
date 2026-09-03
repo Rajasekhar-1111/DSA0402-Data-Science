@@ -1,3 +1,0 @@
-data science is useful
-data science is interesting
-python is useful for data science
